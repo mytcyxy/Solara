@@ -389,8 +389,8 @@ function buildAudioProxyUrl(url) {
 }
 
 const SOURCE_OPTIONS = [
-    { value: "netease", label: "网易云音乐" },
     { value: "kuwo", label: "酷我音乐" },
+    { value: "netease", label: "网易云音乐" },
     { value: "joox", label: "JOOX音乐" }
 ];
 
