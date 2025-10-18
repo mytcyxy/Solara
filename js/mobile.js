@@ -15,7 +15,7 @@
         if (!dom.mobileToolbarTitle) {
             return;
         }
-        dom.mobileToolbarTitle.textContent = "Solara11111111";
+        dom.mobileToolbarTitle.textContent = "皮特音乐";
     }
 
     function updateMobileOverlayScrim() {
